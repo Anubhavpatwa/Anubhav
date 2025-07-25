@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anubhav Patwa</h1>
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; text-align: center;">
+    💫 Hi, I'm Anubhav patwa Glad you're here!
+    <img width="5%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" style="margin-left: 10px;">
+</h1>
+<h3 align="center">A CS Undergrad , Thanks for stopping by my GitHub profile! I love tinkering with code and exploring new tech.</h3>  
 <h3 align="center">A passionate full-stack developer and Ui/Ux designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavpatwa&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavpatwa" /> </p>
