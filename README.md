@@ -1,38 +1,60 @@
-<h1 align="center" style="display: flex; align-items: center; justify-content: center; text-align: center;">
-    💫 Hi, I'm Anubhav patwa Glad you're here!
-    <img width="5%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" style="margin-left: 10px;">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF99&center=true&vCenter=true&lines=Hi%2C+I'm+Anubhav+Patwa;Turning+Ideas+into+Code;Securing+the+Future;Solving+Complex+Problems" />
 </h1>
-<h3 align="center">A CS Undergrad , Thanks for stopping by my GitHub profile! I love tinkering with code and exploring new tech.</h3>  
-<h3 align="center">A passionate full-stack developer and Ui/Ux designer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavpatwa&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavpatwa" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavpatwa" alt="anubhavpatwa" /></a> </p>
+### 🚀 About Me
+- 💻 **Full Stack Web Developer** | **Cybersecurity Learner**  
+- 🌱 Exploring **Machine Learning** & **Data Analysis**  
+- 🔐 Passionate about **Network Security & Ethical Hacking**  
+- 📫 Reach me at **anubhavpatwa111@gmail.com**
 
-- 🔭 I’m currently working on **Network Traffic Analysis**
+---
 
-- 🌱 I’m currently learning **Python and Cybersecuirty**
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=hackaday&logoColor=green)
 
-- 👯 I’m looking to collaborate on **Cybersecurity**
+---
 
-- 🤝 I’m looking for help with **Cyberbranch and TCS**
+### 📂 Featured Projects
+- **[Crop Yield Prediction](#)** → Machine learning based agricultural productivity analysis  
+- **[Portfolio Generator](#)** → Automatic portfolio creation tool for developers  
+- **[Data Traffic Analyzer](#)** → Network data flow monitoring & analysis tool  
 
-- 👨‍💻 All of my projects are available at [anubhav.space](anubhav.space)
+---
 
-- 💬 Ask me about **Python**
+### 👨‍💻 Competitive Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anubhavpatwa/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anubhavpatwa111)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/anubhavpatwa111)
 
-- 📫 How to reach me **anubhavpatwa111@gmail.com**
+---
 
-- ⚡ Fun fact **I create Insta videos**
+### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhav-patwa&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhav-patwa&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-patwa&layout=compact&theme=tokyonight&hide_border=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/anubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anubhav" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🐍 Contribution Graph
+![Snake animation](https://github.com/anubhav-patwa/anubhav-patwa/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavpatwa&show_icons=true&locale=en&layout=compact" alt="anubhavpatwa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavpatwa&show_icons=true&locale=en" alt="anubhavpatwa" /></p>
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavpatwa123999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavpatwa111@gmail.com)
+
+---
+
+*“Turning Ideas into Code | Securing the Future | Solving Complex Problems”*
